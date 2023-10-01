@@ -1,0 +1,3 @@
+Commands
+Start venv: venv/Scripts/activate
+Open QtDesigner: qt5-tools designer
